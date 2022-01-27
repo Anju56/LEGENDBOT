@@ -39,7 +39,7 @@
 
 ------
 ## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/adityahalder)
+- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/adityahalder?style=social)](https://youtube.com/channel/adityahalder)
 
 ------------
 <h3> Dєρℓογ το нєяοκυ </h3>
