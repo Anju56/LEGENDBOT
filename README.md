@@ -53,13 +53,13 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGENDXOS/LEGENDBOT)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com//LEGENDBOT)
 
 ## Deploy Locally
 
 - Clone the repo. 
 
-`git clone https://github.com/LEGENDXOS/LEGENDUSERBOT.git`
+`git clone https://github.com/Anju56/LEGENDUSERBOT.git`
 - Open Cloned Folder.
 
 `cd LEGENDUSERBOT`
